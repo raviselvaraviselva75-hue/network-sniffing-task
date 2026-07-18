@@ -1,0 +1,64 @@
+Started Network Sniffing...
+Capturing Packets...
+
+==================================================
+Packet Captured
+==================================================
+Time           : 16:45:12
+Source IP      : 192.168.1.5
+Destination IP : 142.250.183.14
+Protocol Name  : TCP
+Packet Length  : 74 bytes
+
+==================================================
+Packet Captured
+==================================================
+Time           : 16:45:14
+Source IP      : 192.168.1.5
+Destination IP : 8.8.8.8
+Protocol Name  : ICMP
+Packet Length  : 98 bytes
+
+==================================================
+Packet Captured
+==================================================
+Time           : 16:45:16
+Source IP      : 192.168.1.5
+Destination IP : 224.0.0.251
+Protocol Name  : UDP
+Packet Length  : 66 bytes
+
+==================================================
+Packet Captured
+==================================================
+Time           : 16:45:18
+Source IP      : 192.168.1.5
+Destination IP : 172.217.160.110
+Protocol Name  : TCP
+Packet Length  : 60 bytes
+
+==================================================
+Packet Captured
+==================================================
+Time           : 16:45:20
+Source IP      : 192.168.1.5
+Destination IP : 104.18.32.47
+Protocol Name  : TCP
+Packet Length  : 78 bytes
+
+Packet Capture Completed Successfully!
+
+
+
+
+==================================================
+Packet Captured
+==================================================
+Time           : 16:45:25
+Source IP      : 192.168.1.5
+Destination IP : 142.250.183.14
+Protocol Name  : TCP
+Packet Length  : 150 bytes
+Payload         : b'GET / HTTP/1.1\r\nHost: www.google.com\r\nUser-Agent: Mozilla/5.0\r\n...'
+
+Packet Capture Completed Successfully!
